@@ -6,6 +6,10 @@
 - [Strapi - Open Source NodeJS Headless CMS](https://strapi.io/)
 ## How to Use
 - Clone this repository
-```
-git clone https://github.com/haqiramadhani/WACBE
-```
+  ```
+  git clone https://github.com/haqiramadhani/WACBE && cd WACBE
+  ```
+- Start the app
+  ```
+  npm run build && npm start
+  ```
